@@ -716,3 +716,9 @@ footer{
 	font-size: 2.8rem;
 	margin-bottom: 1.5rem;
 }
+.link_list>ul>li>a {
+	color: var(--gray3);
+  	text-decoration: underline;
+  	font-weight: 400;
+  	font-size: 2.5rem;
+}	
