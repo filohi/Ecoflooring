@@ -218,3 +218,13 @@
 		display: block;
 	}
 }
+@media  (hover: none) {
+	.gallery_content {
+		opacity: 1!important;
+		  left: 0!important;
+	}
+	.gallery_item::after {
+		opacity: .44!important;
+		width: 100%!important;
+	}
+  }
